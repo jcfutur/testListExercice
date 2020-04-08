@@ -1,5 +1,5 @@
 const UrlConfig= {
-    url: "https://silly-brattain-13afc5.netlify.com",
+    url: "https://epic-lumiere-44f0c3.netlify.com",
     //url: "http://localhost:5000",
 }
 
